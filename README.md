@@ -15,4 +15,5 @@ A visually engaging restaurant website built using **HTML**, **CSS**, **JavaScri
 - Webpack (build process and module bundling)
 
 ## Live Demo
-[Our restaurant](https://bozica.github.io/Mini-Restaurant-Website)
+[Our restaurant](https://bozicag.github.io/Mini-Restaurant-Website)
+
